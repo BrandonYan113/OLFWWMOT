@@ -11,5 +11,5 @@ Here is our backbone framework:
 Our architecture performs different tasks at different resolutions.
 
 Below are our best results in the MOT20 benchmarks:
-![MOT20result](https://github.com/BrandonYan113/OLFWWMOT/blob/main/MOT20result.png)
+![MOT20result](https://github.com/BrandonYan113/OLFWWMOT/blob/main/MOT20result.PNG)
 For more competition details, you can visit the MOTChallenge benchmark website at (https://motchallenge.net), where you can find information about our model called OLFWMOT.
